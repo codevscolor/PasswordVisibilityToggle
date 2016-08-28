@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hint_email">Enter Your email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_empty">This field cannot be blank</string>
+    <string name ="error_email">Please enter a valid email</string>
+</resources>
